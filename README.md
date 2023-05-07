@@ -1,40 +1,27 @@
-# ShopNext Project 
+ 
+# Backend Docs
 
-##PROJECT INTRODUCTION 
+# Project ecommerce-collab
 
-##PROJECT SPECIFICATION
+The ecommerce project collab by EmmyNuel and Techninja
 
+## Project Packages use
 
-##PROJECT STACK
-
-##OPEN SOURCE CONTRIBUTION 
-
-
-# Foobar
-
-Foobar is a Python library for dealing with word pluralization.
-
-## Installation
-
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install django
 
 ```bash
-pip install foobar
+pip install django
 ```
 
 ## Usage
 
 ```python
-import foobar
+# I no get anything write now
 
-# returns 'words'
-foobar.pluralize('word')
+# I go commit later 
 
-# returns 'geese'
-foobar.pluralize('goose')
 
-# returns 'phenomenon'
-foobar.singularize('phenomena')
+
 ```
 
 ## Contributing
@@ -46,4 +33,8 @@ Please make sure to update tests as appropriate.
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+©Techninja 
+email: techninjaslab@gmail.com
+WhatsApp: +2349130388651
+
+
